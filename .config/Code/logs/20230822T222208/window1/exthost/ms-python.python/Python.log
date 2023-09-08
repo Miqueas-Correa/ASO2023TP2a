@@ -1,0 +1,33 @@
+2023-08-22 22:23:29.230 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-22 22:23:29.230 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-22 22:23:29.230 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-08-22 22:23:29.230 [info] Experiment 'pythonTestAdapter' is active
+2023-08-22 22:23:29.466 [info] Test server listening.
+2023-08-22 22:23:29.489 [info] > conda info --json
+2023-08-22 22:23:29.541 [info] Found: /bin/python3 --> /bin/python3.10
+2023-08-22 22:23:29.541 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-08-22 22:23:29.604 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:23:29.604 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:23:29.604 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-22 22:23:29.604 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-22 22:23:29.605 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-08-22 22:23:29.605 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-08-22 22:23:29.684 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-22 22:23:29.715 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-22 22:23:29.851 [info] Python interpreter path: /bin/python3
+2023-08-22 22:23:33.548 [info] Starting Pylance language server.
+2023-08-22 22:24:16.544 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-22 22:24:16.545 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-22 22:24:16.545 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-08-22 22:24:16.545 [info] Experiment 'pythonTestAdapter' is active
+2023-08-22 22:24:16.657 [info] Test server listening.
+2023-08-22 22:24:16.682 [info] Python interpreter path: /bin/python3
+2023-08-22 22:24:17.145 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:24:17.145 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-22 22:24:17.145 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-22 22:24:17.145 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-08-22 22:24:18.078 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:24:19.997 [info] Starting Pylance language server.
+2023-08-22 22:24:45.480 [info] Discover tests for workspace name: Python - uri: /home/miqueas/Python/TP1.py
+2023-08-22 22:24:47.866 [info] DAP Server launched with command: /bin/python3 /home/miqueas/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-22 22:24:50.103 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/miqueas/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 43201 -- /home/miqueas/Python/TP1.py 

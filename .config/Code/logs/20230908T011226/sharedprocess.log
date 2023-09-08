@@ -1,0 +1,9 @@
+2023-09-08 01:12:33.861 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-08 01:12:33.877 [info] Installing extension: ms-python.vscode-pylance
+2023-09-08 01:12:35.308 [info] Getting Manifest... ms-python.python
+2023-09-08 01:12:39.445 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-09-08 01:12:46.446 [info] Extracted extension to file:///home/miqueas/.vscode/extensions/ms-python.vscode-pylance-2023.9.10: ms-python.vscode-pylance
+2023-09-08 01:12:48.198 [info] Renamed to /home/miqueas/.vscode/extensions/ms-python.vscode-pylance-2023.9.10
+2023-09-08 01:12:48.205 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-08 01:12:49.191 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-08 01:12:49.197 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.30

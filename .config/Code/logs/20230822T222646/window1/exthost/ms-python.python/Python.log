@@ -1,0 +1,15 @@
+2023-08-22 22:26:52.181 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-22 22:26:52.181 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-22 22:26:52.181 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-08-22 22:26:52.181 [info] Experiment 'pythonTestAdapter' is active
+2023-08-22 22:26:52.181 [info] Test server listening.
+2023-08-22 22:26:52.181 [info] Python interpreter path: /bin/python3
+2023-08-22 22:26:53.059 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:26:53.288 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:26:53.289 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:26:53.289 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:26:53.289 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:26:53.289 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-08-22 22:26:56.464 [info] Starting Pylance language server.
+2023-08-22 22:27:01.890 [info] DAP Server launched with command: /bin/python3 /home/miqueas/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter
+2023-08-22 22:27:03.609 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/miqueas/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 38983 -- /home/miqueas/Python/TP1.py 

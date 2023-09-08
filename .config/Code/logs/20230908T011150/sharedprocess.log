@@ -1,0 +1,12 @@
+2023-09-08 01:12:08.382 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-08 01:12:08.557 [info] Installing extension: ms-python.vscode-pylance
+2023-09-08 01:12:10.701 [info] Getting Manifest... ms-python.python
+2023-09-08 01:12:18.801 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-09-08 01:12:18.919 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-09-08 01:12:19.664 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-09-08 01:12:22.924 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-es
+2023-09-08 01:12:23.179 [info] Extracted extension to file:///home/miqueas/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.81.2023081609: ms-ceintl.vscode-language-pack-es
+2023-09-08 01:12:23.257 [info] Renamed to /home/miqueas/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.81.2023081609
+2023-09-08 01:12:23.260 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-09-08 01:12:23.298 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-09-08 01:12:23.449 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

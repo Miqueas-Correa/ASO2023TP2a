@@ -1,0 +1,12 @@
+2023-08-22 22:22:13.798 [info] Started initializing default profile extensions in extensions installation folder. file:///home/miqueas/.vscode/extensions
+2023-08-22 22:22:15.191 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/miqueas/.vscode/extensions
+2023-08-22 22:22:19.153 [info] [perf] Render performance baseline is 165ms
+2023-08-22 22:23:56.180 [info] [perf] Render performance baseline is 128ms
+2023-08-22 22:24:21.863 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/miqueas/.vscode/extensions/ms-python.vscode-pylance-2023.8.30/dist/extension.bundle.js:1:131001
+	at _0x5a417a (/home/miqueas/.vscode/extensions/ms-python.vscode-pylance-2023.8.30/dist/extension.bundle.js:1:142741)
+	at async ce.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:50188)
+2023-08-22 22:24:52.977 [error] Server[pid=2624] disconnected unexpectedly: CodeExpectedError: Server[pid=2624] disconnected unexpectedly
+    at r.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:908:39015)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:908:38554
+    at async A.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:18470)

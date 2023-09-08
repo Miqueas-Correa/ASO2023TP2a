@@ -1,0 +1,77 @@
+2023-09-08 01:12:32.625 [info] Nivel de registro: Info
+2023-09-08 01:12:32.625 [info] La validación encontró GIT en: “git“
+2023-09-08 01:12:32.625 [info] Usando GIT “2.34.1” desde “git”
+2023-09-08 01:12:32.625 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-08 01:12:32.625 [info] fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+2023-09-08 01:12:32.625 [info] > git rev-parse --show-toplevel [4ms]
+2023-09-08 01:12:32.625 [info] fatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+2023-09-08 01:14:21.158 [info] > git init -b main [107ms]
+2023-09-08 01:14:21.803 [info] > git rev-parse --show-toplevel [1ms]
+2023-09-08 01:14:21.812 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-09-08 01:14:21.831 [info] Open repository: /home/miqueas/Python
+2023-09-08 01:14:21.851 [info] No remotes found in the git config file.
+2023-09-08 01:14:21.856 [info] > git config --get commit.template [15ms]
+2023-09-08 01:14:21.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-09-08 01:14:21.875 [info] > git status -z -uall [9ms]
+2023-09-08 01:14:21.906 [info] No remotes found in the git config file.
+2023-09-08 01:14:21.906 [info] > git config --get commit.template [10ms]
+2023-09-08 01:14:21.907 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-09-08 01:14:21.916 [info] > git status -z -uall [2ms]
+2023-09-08 01:14:22.608 [info] > git check-ignore -v -z --stdin [2ms]
+2023-09-08 01:15:02.067 [info] > git add -A -- . [57ms]
+2023-09-08 01:15:02.138 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [63ms]
+2023-09-08 01:15:02.138 [info] Identidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no se entregó ningún email y la detección automática está desactivada
+2023-09-08 01:15:02.148 [info] > git config --get-all user.name [2ms]
+2023-09-08 01:15:02.168 [info] No remotes found in the git config file.
+2023-09-08 01:15:02.169 [info] > git config --get commit.template [11ms]
+2023-09-08 01:15:02.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-09-08 01:15:02.180 [info] > git status -z -uall [2ms]
+2023-09-08 01:15:06.616 [info] No remotes found in the git config file.
+2023-09-08 01:15:06.617 [info] > git config --get commit.template [10ms]
+2023-09-08 01:15:06.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-09-08 01:15:06.630 [info] > git status -z -uall [4ms]
+2023-09-08 01:16:52.461 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [5ms]
+2023-09-08 01:16:52.461 [info] Identidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no se entregó ningún email y la detección automática está desactivada
+2023-09-08 01:16:52.469 [info] > git config --get-all user.name [1ms]
+2023-09-08 01:16:52.489 [info] No remotes found in the git config file.
+2023-09-08 01:16:52.489 [info] > git config --get commit.template [11ms]
+2023-09-08 01:16:52.490 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-09-08 01:16:52.500 [info] > git status -z -uall [1ms]
+2023-09-08 01:20:43.393 [info] No remotes found in the git config file.
+2023-09-08 01:20:43.393 [info] > git config --get commit.template [8ms]
+2023-09-08 01:20:43.394 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-09-08 01:20:43.406 [info] > git status -z -uall [4ms]
+2023-09-08 01:26:14.581 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [107ms]
+2023-09-08 01:26:14.593 [info] > git config --get commit.template [1ms]
+2023-09-08 01:26:14.608 [info] > git config --get commit.template [2ms]
+2023-09-08 01:26:14.617 [info] No remotes found in the git config file.
+2023-09-08 01:26:14.619 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-09-08 01:26:14.632 [info] > git status -z -uall [2ms]
+2023-09-08 01:26:14.736 [info] No remotes found in the git config file.
+2023-09-08 01:26:14.737 [info] > git config --get commit.template [15ms]
+2023-09-08 01:26:14.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-09-08 01:26:14.761 [info] > git status -z -uall [4ms]

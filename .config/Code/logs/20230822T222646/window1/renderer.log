@@ -1,0 +1,5 @@
+2023-08-22 22:26:55.774 [info] [perf] Render performance baseline is 183ms
+2023-08-22 22:27:05.168 [error] Server[pid=3080] disconnected unexpectedly: CodeExpectedError: Server[pid=3080] disconnected unexpectedly
+    at r.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:908:39015)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:908:38554
+    at async A.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:18470)
